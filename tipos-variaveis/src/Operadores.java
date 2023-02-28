@@ -14,8 +14,8 @@ public class Operadores {
         resultado = "falso";
     
     System.out.println(resultado);
-
-//---------
+   
+//--------- 
 
     /*String resultado = a==b ? "verdadeiro" : "falso";
 
