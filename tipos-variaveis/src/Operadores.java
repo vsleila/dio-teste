@@ -1,9 +1,8 @@
 public class Operadores {
-   
     public static void main(String [] args) {
     int a, b;
     a = 5;
-    b = 6;
+    b = 8;
 
 //Ambas dão o mesmo resultado!
 
@@ -13,12 +12,12 @@ public class Operadores {
     else 
         resultado = "falso";
     
+
     System.out.println(resultado);
    
 //--------- 
 
     /*String resultado = a==b ? "verdadeiro" : "falso";
-
     System.out.println(resultado);*/
 
     }
